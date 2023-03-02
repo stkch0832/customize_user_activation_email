@@ -1,0 +1,7 @@
+{{ username }} 様
+
+ユーザー登録していただき、誠にありがとうございます。
+
+下記のURLより、認証を完了してください。
+
+http://127.0.0.1:8000/activate_user/{{ user_activate_token }}
